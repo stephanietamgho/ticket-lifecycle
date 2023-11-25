@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - Ticket Lifecycle: Ticket Creation Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
@@ -22,13 +22,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- The Intake
+- Ticket Creation
 - Assignment and Communication
 - Working the Issue and Resolution
 
 <h2>Lifecycle Stages</h2>
 
-<h3>INTAKE</h3>
+<h3>TICKET CREATION</h3>
 <p>
 <img src="https://i.imgur.com/LO0UJ6V.png" height="80%" width="80%" alt=" osTicket ticket creation"/>
 </p>
